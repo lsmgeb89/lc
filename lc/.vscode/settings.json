@@ -1,4 +1,3 @@
-
 {
   "files.defaultLanguage": "cpp",
 
@@ -14,6 +13,8 @@
   "code-runner.preserveFocus": true,
 
   "code-runner.clearPreviousOutput": false,
+
+  "C_Cpp.autocomplete": "Disabled",
 
   "C_Cpp.clang_format_sortIncludes": true,
 
@@ -37,5 +38,19 @@
     "-Wall"
   ],
 
-  "clang.completion.enable": false
+  "clang.completion.enable": true,
+
+  "editor.detectIndentation": false,
+
+  "editor.tabSize": 2,
+
+  "editor.insertSpaces": true,
+
+  "files.trimTrailingWhitespace": true,
+
+  "editor.wordWrap": "off",
+
+  "editor.fontSize": 20,
+
+  "workbench.colorTheme": "One Dark Pro"
 }

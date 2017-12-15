@@ -7,3 +7,5 @@ code --install-extension formulahendry.code-runner
 code --install-extension ajshort.include-autocomplete
 
 code --install-extension hars.CppSnippets
+
+code --install-extension zhuangtongfa.material-theme
