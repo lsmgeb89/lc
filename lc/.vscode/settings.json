@@ -22,6 +22,8 @@
 
   "C_Cpp.errorSquiggles": "Disabled",
 
+  "C_Cpp.clang_format_fallbackStyle": "Google",
+
   "editor.formatOnType": true,
 
   "editor.snippetSuggestions": "top",
