@@ -11,16 +11,17 @@ A minimal project for practicing algorithms in LeetCode with Visual Studio Code 
 
 1. Install [Visual Studio Code][vsc]
 1. Install [MinGW-w64][mingw64d] with `Architecture = x86_64`
-1. Install [Clang for Windows (64-bit) under Pre-Built Binaries][llvmd] with `Add LLVM to the system PATH for all users`
+1. Install [Clang for Windows (64-bit) under Pre-Built Binaries][llvmd] with `Add LLVM to the system PATH for current users`
 1. Download zip file of this project
 1. Run `powershell -ExecutionPolicy ByPass -File install_extensions.ps1` to install 5 extensions for [Visual Studio Code][vsc]
+1. Add [MinGW-w64][mingw64d]'s binary path to current user's `Path` environment variable (included in the `install_extensions.ps1`)
 1. Enjoy!
 
 ## Notes
 
 ### Subtree Management
 
-1. See [reference][subtree_ref]
+1. See an [Atlassian blog's article][subtree_ref] as a reference
 
 #### Adding the sub-project as a remote
 
