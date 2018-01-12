@@ -52,7 +52,9 @@
 
   "editor.wordWrap": "off",
 
-  "editor.fontSize": 20,
+  "editor.fontSize": 12,
 
-  "workbench.colorTheme": "One Dark Pro"
+  "workbench.colorTheme": "One Dark Pro",
+
+  "git.enabled": false
 }
