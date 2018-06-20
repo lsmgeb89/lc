@@ -8,6 +8,7 @@
 #include <array>
 #include <bitset>
 #include <chrono>
+#include <cassert>
 #include <cstddef>
 #include <deque>
 #include <forward_list>
@@ -20,6 +21,7 @@
 #include <memory>
 #include <numeric>
 #include <queue>
+#include <random>
 #include <set>
 #include <sstream>
 #include <stack>
