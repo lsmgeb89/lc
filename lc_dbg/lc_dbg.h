@@ -64,6 +64,15 @@ struct TreeNode {
   TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
 };
 
+struct TreeNodeP {
+  int val;
+  TreeNodeP *parent = nullptr;
+  TreeNodeP *left = nullptr;
+  TreeNodeP *right = nullptr;
+
+  TreeNodeP(int x) : val(x) {}
+};
+
 // Definition for binary tree with next pointer
 struct TreeLinkNode {
   int val;
